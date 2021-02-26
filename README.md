@@ -10,3 +10,7 @@ cd layar21-dl
 python -m pip install requests click tqdm bs4
 ```
 <b>Usage:</b> ```python layar21.py```
+
+
+# sumber : https://github.com/KANG-NEWBIE/
+ numpang copas ya om biar sy gk lupa
